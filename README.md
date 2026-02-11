@@ -5,11 +5,13 @@ UK Bank Data Analysis
 •	Visualized banking transaction by region , gender , age , balance and Job Roles and  combined into an interactive dashboard
 
 📊 UK Bank Data – Geographical & Customer Analysis (Tableau Dashboard)
+
 🔎 Project Overview
 This project presents an interactive Tableau Public dashboard analyzing UK bank customer transaction data. The dashboard provides geographical insights, gender-based comparisons, job classification analysis, and distribution trends for age and account balances.
 The objective is to uncover customer behavior patterns and regional transaction distribution using visual analytics.
 
 📌 Key Insights & Visualizations
+
 🗺️ 1. Geographical Transaction Analysis
 
 Map visualization showing the total number of transactions processed across UK regions.
